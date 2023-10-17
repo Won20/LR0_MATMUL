@@ -1,4 +1,5 @@
 # LR0_MATMUL
+https://colab.research.google.com/drive/11ZMY7bcO8fO0q1ly11CyWDpFX6R75fDZ?usp=sharing
 # Время работы и ускорение параллельного алгоритма
 
 ![image](https://github.com/Won20/LR0_MATMUL/assets/102918065/22ad8779-5ac5-4809-9a5b-13916e7c1f8e)
