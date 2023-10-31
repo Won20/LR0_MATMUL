@@ -12,3 +12,6 @@ https://colab.research.google.com/drive/11ZMY7bcO8fO0q1ly11CyWDpFX6R75fDZ?usp=sh
 # Ссылка на LR1 VectorSum:
 https://github.com/Won20/LR1_VectorSum/tree/main
 
+# Ссылка на LR2 Pi_Monte-Carlo
+https://github.com/Won20/LR2_Pi_Monte-Carlo/tree/main
+
