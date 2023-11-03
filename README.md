@@ -15,3 +15,5 @@ https://github.com/Won20/LR1_VectorSum/tree/main
 # Ссылка на LR2 Pi_Monte-Carlo
 https://github.com/Won20/LR2_Pi_Monte-Carlo/tree/main
 
+# Ссылка на LR3 bilateral_filtering
+https://github.com/Won20/LR3_bilateral_filtering/tree/main
